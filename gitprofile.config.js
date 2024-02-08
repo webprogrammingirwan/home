@@ -28,6 +28,9 @@ const config = {
     'JavaScript',
     'Java',
     'Git',
+    'Node.js',
+    'MySQL',
+    'CSS'
   ],
   education: [
     {
@@ -65,7 +68,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'pastel',
+    defaultTheme: 'bumblebee',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
